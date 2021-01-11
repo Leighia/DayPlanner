@@ -1,2 +1,1 @@
-# DayPlanner
-A planner to organize a daily schedule
+The Day Planner is a simple format to input the activities for the day. 
